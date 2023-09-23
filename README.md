@@ -33,10 +33,14 @@ This repository contains a collection of 100 resources and problems designed to 
 
 4. Feel free to adapt the code and experiment with your solutions.
 
-Let's Learn Together!
+## Let's Learn Together!
 Join us on this learning journey and strengthen your DSA skills. If you find this repository helpful, don't forget to give it a star ⭐ to show your support and share it with others.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Happy coding! 🚀👩‍💻👨‍💻
+MIT License
+
+Copyright (c) 2021 CodeMacrocosm
+
+## Happy coding! 🚀👩‍💻👨‍💻
